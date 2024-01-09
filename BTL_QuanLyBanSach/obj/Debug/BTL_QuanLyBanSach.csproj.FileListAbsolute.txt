@@ -1,0 +1,298 @@
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe.config
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.pdb
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.AssemblyReference.cache
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Properties.Resources.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.GenerateResource.cache
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.exe
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.pdb
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Form1.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CopyComplete
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Login.frmLogin.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ClosedXML.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\EPPlus.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ExcelNumberFormat.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\itextsharp.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\SixLabors.Fonts.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Buffers.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Packaging.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Memory.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Numerics.Vectors.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Newtonsoft.Json.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\RestSharp.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.CodeDom.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.Odbc.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.OleDb.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.SqlClient.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Drawing.Common.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Ports.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.AccessControl.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Permissions.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Principal.Windows.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Threading.AccessControl.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmMain.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.Fody.CopyLocal.cache
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Guna.Charts.WinForms.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmBooks.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployee.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployeeDetails.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmCustomer.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmAccount.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBillImport.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.AddCustomer.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSHD.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSNH.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_Search.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_ThuNgan.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Main_Form.Main.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBill.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmSaleReport.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\log4net.xml
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmStockReport.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe.config
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.pdb
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ClosedXML.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\DocumentFormat.OpenXml.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\EPPlus.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ExcelNumberFormat.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Guna.Charts.WinForms.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\itextsharp.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\log4net.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Newtonsoft.Json.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\RestSharp.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\SixLabors.Fonts.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Buffers.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.CodeDom.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.Odbc.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.OleDb.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.SqlClient.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.EventLog.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Drawing.Common.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Packaging.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Ports.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Memory.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Numerics.Vectors.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.AccessControl.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Permissions.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Principal.Windows.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceModel.Syndication.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Threading.AccessControl.xml
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.AssemblyReference.cache
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Form1.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmAccount.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBill.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBillImport.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmBooks.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmCustomer.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployee.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployeeDetails.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmMain.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmSaleReport.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmStockReport.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.AddCustomer.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSHD.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSNH.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_Search.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_ThuNgan.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Main_Form.Main.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Login.frmLogin.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_ThuKho.frmThuKhoMain.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Properties.Resources.resources
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.GenerateResource.cache
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CoreCompileInputs.cache
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.Fody.CopyLocal.cache
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CopyComplete
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.exe
+E:\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.pdb
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe.config
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.pdb
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ClosedXML.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\DocumentFormat.OpenXml.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\EPPlus.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ExcelNumberFormat.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Guna.Charts.WinForms.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\itextsharp.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\log4net.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Newtonsoft.Json.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\RestSharp.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\SixLabors.Fonts.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Buffers.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.CodeDom.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.Odbc.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.OleDb.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.SqlClient.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.EventLog.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Drawing.Common.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Packaging.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Ports.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Memory.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Numerics.Vectors.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.AccessControl.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Permissions.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Principal.Windows.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceModel.Syndication.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Threading.AccessControl.xml
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.AssemblyReference.cache
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Form1.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmAccount.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBill.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBillImport.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmBooks.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmCustomer.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployee.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployeeDetails.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmMain.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmSaleReport.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmStockReport.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.AddCustomer.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSHD.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSNH.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_Search.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_ThuNgan.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Main_Form.Main.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Login.frmLogin.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Properties.Resources.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.GenerateResource.cache
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CoreCompileInputs.cache
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.Fody.CopyLocal.cache
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CopyComplete
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.exe
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.pdb
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.frmThuKho.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.AddBillImport.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.BillImportList.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.Delivery.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.DeliveryListDetail.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.ListBook.resources
+E:\.NET\BTL\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.Pay.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe.config
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.exe
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\BTL_QuanLyBanSach.pdb
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ClosedXML.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\EPPlus.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\itextsharp.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\log4net.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\RestSharp.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Buffers.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.CodeDom.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.Odbc.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.OleDb.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Drawing.Common.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Packaging.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.IO.Ports.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Memory.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Permissions.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.AssemblyReference.cache
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Form1.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmAccount.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBill.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmBillImport.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmBooks.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmCustomer.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployee.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmEmployeeDetails.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.FrmMain.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmSaleReport.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Admin.frmStockReport.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.AddCustomer.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.Pay.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSHD.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_LSNH.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_Search.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.U_ThuNgan.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Main_Form.Main.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.GUI.GUI_Login.frmLogin.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.frmThuKho.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.AddBillImport.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.BillImportList.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.Delivery.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.DeliveryListDetail.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.ListBook.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.Properties.Resources.resources
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.GenerateResource.cache
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.Fody.CopyLocal.cache
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.csproj.CopyComplete
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.exe
+C:\Users\Xuan Trang\Downloads\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL_QuanLyBanSach.pdb
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BTL.Main.Control.Pay.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.frmThuKho.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.AddBillImport.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.BillImportList.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.Delivery.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.DeliveryListDetail.resources
+D:\Code_C#\BTL_QuanLyBanSach\BTL_QuanLyBanSach\obj\Debug\BaiTapLon.ListBook.resources
